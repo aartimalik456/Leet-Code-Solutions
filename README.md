@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
