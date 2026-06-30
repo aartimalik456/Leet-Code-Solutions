@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
