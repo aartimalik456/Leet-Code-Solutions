@@ -7,11 +7,11 @@ public:
         while(l<r){
             lmax=max(lmax,height[l]);
             rmax=max(rmax,height[r]);
-            if(lmax<rmax){
+            if(lmax<rmax){  // left boundary is the deciding factor
                 ans += lmax-height[l];
                 l++;
             }
-            else{
+            else{  //right boundary is the deciding factor
                 ans += rmax-height[r];
                 r--;
             }
