@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
