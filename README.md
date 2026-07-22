@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
