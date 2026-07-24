@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0075-sort-colors) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
