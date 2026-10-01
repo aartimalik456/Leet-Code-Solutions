@@ -6,8 +6,8 @@ public:
             if(s[i]=='(' || s[i]=='{' || s[i]=='['){
                 st.push(s[i]);
             }
-            else{
-                if(st.empty()){
+            else{//if closing brackets then to pop
+                if(st.empty()){//in empty stack cant pop
                     return false;
                 }
                 if((st.top()=='(' && s[i]==')')||
@@ -15,7 +15,7 @@ public:
                    (st.top()=='{' && s[i]=='}')){
                     st.pop();
                   }
-                  else{
+                  else{//no match
                   return false;
             }
         }
