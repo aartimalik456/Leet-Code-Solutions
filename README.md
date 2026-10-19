@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0134-gas-station) |
+| [1903-largest-odd-number-in-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
+| [1903-largest-odd-number-in-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
