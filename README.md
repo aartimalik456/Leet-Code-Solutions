@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0507-perfect-number](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
