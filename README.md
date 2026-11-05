@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0541-reverse-string-ii) |
