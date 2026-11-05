@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
