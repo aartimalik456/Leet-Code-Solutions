@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -229,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
