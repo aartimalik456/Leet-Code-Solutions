@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
+| [1796-second-largest-digit-in-a-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/0796-rotate-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/aartimalik456/Leet-Code-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
